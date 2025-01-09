@@ -13,6 +13,10 @@ Whether you're ordering for yourself or a group, this app makes the pizza orderi
 ## 📋 Detailed Workflow Description:
 ![image](/public/images/diagram-1.png)
 
+## 🎥 Demo Video
+[Click here to watch the demo video](https://youtu.be/JBnB-deqlUc?si=lDNW4qdHVdP6Afvj)
+
+
 ## 🚩 Instructions on how to install and run your application locally
 
 ```
@@ -21,6 +25,9 @@ Whether you're ordering for yourself or a group, this app makes the pizza orderi
 - npm install
 - npm run build
 - rename exampe.env file as .env
+- php artisan serve
+- php artisan reverb:start
+- php artisan queue:work
 ```
 
 ## 🍕 Frontend [ Home page ]
