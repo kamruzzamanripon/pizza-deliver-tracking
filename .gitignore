@@ -23,5 +23,8 @@ yarn-error.log
 Dockerfile
 docker-compose.yml
 Dockerfile_file_two
+/k8s
+docker_after_install_setup.md
+docker-compose.yaml
 
 

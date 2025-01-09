@@ -13,7 +13,7 @@ const NotificationBar = () => {
 
     useEffect(() => {
         window.Echo.channel("payments").listen("PaymentSuccessful", (e) => {
-            console.log("notification", e);
+            console.log("notification ripon", e);
 
             const newNotification = {
                 data: JSON.stringify({
