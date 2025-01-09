@@ -50,5 +50,5 @@ Whether you're ordering for yourself or a group, this app makes the pizza orderi
 ## 🎡 Backend [ Pizza Order List ]
 ![image](/public/images/Screenshot_3.jpg)
 
-## 🎡 Backend [ Pizza Order List ]
+## 🎡 Backend [ Pizza Create Form ]
 ![image](/public/images/Screenshot_5.jpg)
